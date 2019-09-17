@@ -60,8 +60,8 @@ img.logo {
 .hero {
   padding: 4em;
   max-width: 100%;
-  background-color: #294860;
-  color: white;
+  background-color: #9e2009;
+  color: rgb(0, 0, 0);
 }
 
 img.my-picture {
@@ -76,14 +76,14 @@ img.my-picture {
 
 .iama {
   max-width: 100%;
-  color: #294860;
+  color: #a31d05;
   font-size: 1.1em;
   font-style: italic;
 }
 
 .my-info {
   max-width: 100%;
-  color: #404040;
+  color: #a31d05;
   font-size: 1.6rem;
   line-height: 1.5;
   margin: 0px auto 3em;
@@ -94,7 +94,7 @@ img.my-picture {
 }
 
 .my-name {
-  color: white;
+  color: rgb(0, 0, 0);
   font-size: 1.6rem;
   font-weight: 600;
   text-align: center;
@@ -102,7 +102,7 @@ img.my-picture {
 }
 
 .my-location {
-    color: rgba(255,255,255, 0.8);
+    color: rgba(0, 0, 0);
     font-size: 1rem;
     font-weight: 600;
     text-align: center;
@@ -114,6 +114,6 @@ img.my-picture {
 }
 
 .about-content {
-    border-left: 1px solid #DFEAF1;
+    border-left: 1px solid #a31d05;
     padding-left: 3rem;
 }
