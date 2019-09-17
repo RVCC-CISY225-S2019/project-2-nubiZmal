@@ -61,7 +61,7 @@ img.logo {
   padding: 4em;
   max-width: 100%;
   background-color: #9e2009;
-  color: rgb(0, 0, 0);
+  color: #262121;
 }
 
 img.my-picture {
@@ -70,7 +70,7 @@ img.my-picture {
   /*max-width: 100%;*/
   width: 8rem;
   height: 8rem;
-  border: 2px solid rgb(0, 0, 0);
+  border: 2px solid #262121;
   border-radius: 50%;
 }
 
@@ -94,7 +94,7 @@ img.my-picture {
 }
 
 .my-name {
-  color: rgb(0, 0, 0);
+  color: #262121;
   font-size: 1.6rem;
   font-weight: 600;
   text-align: center;
@@ -102,7 +102,7 @@ img.my-picture {
 }
 
 .my-location {
-    color: rgba(0, 0, 0);
+    color: #262121;
     font-size: 1rem;
     font-weight: 600;
     text-align: center;
@@ -125,4 +125,5 @@ img.my-picture {
   background-color: #9e2009;
   height: 3.5em;
   padding: 1em;
+  color: #262121;
 }
