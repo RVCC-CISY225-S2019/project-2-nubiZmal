@@ -27,7 +27,7 @@ img.logo {
 }
 
 .page-title {
-  color: #a31d05;
+  color: #b02f28;
   float: left;
   font-size: 1.1rem;
   line-height: 3rem;
@@ -76,14 +76,14 @@ img.my-picture {
 
 .iama {
   max-width: 100%;
-  color: #a31d05;
+  color: #b02f28;
   font-size: 1.1em;
   font-style: italic;
 }
 
 .my-info {
   max-width: 100%;
-  color: #a31d05;
+  color: #b02f28;
   font-size: 1.6rem;
   line-height: 1.5;
   margin: 0px auto 3em;
@@ -114,7 +114,7 @@ img.my-picture {
 }
 
 .about-content {
-    border-left: 1px solid #a31d05;
+    border-left: 1px solid #b02f28;
     padding-left: 3rem;
 }
 
